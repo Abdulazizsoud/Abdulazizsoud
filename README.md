@@ -1,6 +1,6 @@
 # 💫About Me :
 
-Senior Full Stack Web Application Developer with strong foundation in software engineering and programming principles. Experienced with all stages of software development life cycle (SDLC) for dynamic web projects. Well-versed in numerous programming languages and frameworks including HTML5, JavaScript, CSS3, Laravel 8 (PHP OOP), MySQL, Bootstrap and others and an innate ability to learn and master new technologies.
+Hi! I'm Abdulaziz Bimany, a Senior Full Stack Web Application Developer with strong foundation in software engineering and programming principles. Experienced with all stages of software development life cycle (SDLC) for dynamic web projects. Well-versed in numerous programming languages and frameworks including Nuxt, Vue 3, TailwindCSS, HTML5, JavaScript, CSS3, Laravel 8 (PHP OOP), MySQL, Bootstrap etc, and an innate ability to learn and master new technologies.
 
 ## 🌐Socials
 
@@ -23,10 +23,6 @@ Senior Full Stack Web Application Developer with strong foundation in software e
 ### ✍️Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ## 💰You can help me by Donating
 
